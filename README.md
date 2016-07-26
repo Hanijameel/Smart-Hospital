@@ -1,2 +1,8 @@
 # Smart-Hospital
-Paperless hospital
+Paperless hospital 
+
+# Design Pattern
+MVC Pattern
+
+# Technology
+Java
