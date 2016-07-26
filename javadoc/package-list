@@ -1,0 +1,6 @@
+org.hsuatdsu.smartHospital.BL
+org.hsuatdsu.smartHospital.BO
+org.hsuatdsu.smartHospital.Constant
+org.hsuatdsu.smartHospital.Controller
+org.hsuatdsu.smartHospital.DAL
+org.hsuatdsu.smartHospital.UI
